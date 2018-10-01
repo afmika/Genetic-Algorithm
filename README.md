@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-Simple IA based on GA
+Simple A.I based on GA
