@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-Simple A.I based on GA
+An AI based on a Genetic Algorithm in the Function Maximization Problem
